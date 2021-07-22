@@ -45,9 +45,9 @@
 @media only screen and (max-width: 750px){
 	:root{
 		--biggest-font-size: 4rem;
-		--h1 font size: 2.25rem;
-		--h2 font size: 1.5rem;
-		--h3 font size: 1.25rem;
+		--h1-font-size: 2.25rem;
+		--h2-font-size: 1.5rem;
+		--h3-font-size: 1.25rem;
 
 		--normal-font-size: 1rem;
 		--smallfontsize: 875rem;
@@ -207,7 +207,7 @@ img{
 	color: var(--first-color);
 }
 
-.nav-togle{
+.nav-toggle{
 	font-size: 1.3rem;
 	cursor: pointer;
 }
